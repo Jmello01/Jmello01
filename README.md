@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é João Mello e sou Desenvolvedor Back</h2>
+<h2 align="left">Olá 👋! Meu nome é João Mello e sou Desenvol<h2 align="left">Olá 👋! Meu nome é João Mello e sou Desenvolvedor Back</h2>
 
 ###
 
@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jmello01/Jmello01/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jmello01/Jmello01/output/snake.svg" alt="Snake animation" />
 
 ###
