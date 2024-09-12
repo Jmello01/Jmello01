@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é João Mello e sou Desenvol<h2 align="left">Olá 👋! Meu nome é João Mello e sou Desenvolvedor Back</h2>
+<h2 align="left">Olá 👋! Meu nome é João Mello e sou Desenvolvedor Back</h2>
 
 ###
 
