@@ -6,7 +6,7 @@ Desenvolvedor Java em formação | Apaixonado por back-end, Clean Code e boas pr
 - Banco de dados: PostgreSQL / MySQL  
 - Testes: JUnit, Mockito  
 - Controle de versão: Git e GitHub  
-- Ferramentas: IntelliJ IDEA, Docker (se estiver usando), Postman  
+- Ferramentas: IntelliJ IDEA, Docker, Postman  
 
 ##  Projetos em destaque  
 - **NomeDoProjetoJava1** — breve descrição, ex: “API REST para gestão de tarefas”  
