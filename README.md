@@ -13,7 +13,7 @@ Desenvolvedor Java em formação | Apaixonado por back-end, Clean Code e boas pr
 - **NomeDoProjetoJava2** — breve descrição, ex: “Microserviço de cadastro de usuários com Spring Boot”  
 
 ##  Formação e estudo  
-- Estudante de Análise e Desenvolvimento de Sistemas  
+- Estudante de Ciência da Computação  
 - Foco em back-end Java, padrões, boas práticas e TDD  
 
 ##  Contato  
