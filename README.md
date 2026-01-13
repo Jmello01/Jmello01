@@ -9,8 +9,8 @@ Desenvolvedor Java em formação | Apaixonado por back-end, Clean Code e boas pr
 - Ferramentas: IntelliJ IDEA, Docker, Postman  
 
 ##  Projetos em destaque  
-- **NomeDoProjetoJava1** — breve descrição, ex: “API REST para gestão de tarefas”  
-- **NomeDoProjetoJava2** — breve descrição, ex: “Microserviço de cadastro de usuários com Spring Boot”  
+- **API de Controle de Despesas** — API REST desenvolvida para gerenciamento de despesas pessoais. O projeto demonstra a construção de um backend robusto utilizando Java 21 e Spring Boot 3, aplicando boas práticas como validação de dados, tratamento de exceções, arquitetura em camadas e documentação automática  
+
 
 ##  Formação e estudo  
 - Estudante de Ciência da Computação  
