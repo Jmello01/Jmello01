@@ -8,10 +8,10 @@ Desenvolvedor Backend em formação | Apaixonado por tecnologia, Clean Code e bo
 - Banco de Dados: PostgreSQL, MySQL, H2 Database.  
 - Conceitos: Arquitetura em Camadas, POO, REST API, Bean Validation.
 ##  Projetos em destaque  
-- ** SACT - Sistema de Análise e Cálculo Tributário
-** — O SACT é uma solução de backend desenvolvida para automatizar a gestão fiscal e análise de risco financeiro para empresas prestadoras de serviço. O sistema integra processamento de dados em tempo real, cálculos tributários sonoros e um motor de decisão para concessão de crédito para o mercado financeiro e tributário.
+-  SACT - Sistema de Análise e Cálculo Tributário
+ — O SACT é uma solução de backend desenvolvida para automatizar a gestão fiscal e análise de risco financeiro para empresas prestadoras de serviço. O sistema integra processamento de dados em tempo real, cálculos tributários sonoros e um motor de decisão para concessão de crédito para o mercado financeiro e tributário.
 
- - ** TicketFlow - Laboratório de Concorrência Distribuída ** — Este projeto aplica conceitos fundamentais de Sistemas Operacionais e Sistemas Distribuídos para resolver o problema de disputa de recursos em aplicações Spring Boot.
+ -  TicketFlow - Laboratório de Concorrência Distribuída — Este projeto aplica conceitos fundamentais de Sistemas Operacionais e Sistemas Distribuídos para resolver o problema de disputa de recursos em aplicações Spring Boot.
 
 
 ##  Formação e estudo  
