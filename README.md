@@ -1,5 +1,5 @@
 # Eu sou João Mello 
-Desenvolvedor Backend em formação | Apaixonado por tecnologia, Clean Code e boas práticas
+Desenvolvedor FullStack | Apaixonado por tecnologia, Clean Code e boas práticas
 
 ##  Tech Stack / Em estudo  
 - Linguagens:Java 21 (LTS), SQL, Python
