@@ -2,7 +2,7 @@
 
 # João Mello
 
-### Software Developer · Backend & Full Stack
+### Software Developer · Full Stack
 
 Building practical software with a focus on **Java, Spring Boot, APIs and distributed systems**.
 
