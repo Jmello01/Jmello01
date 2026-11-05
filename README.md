@@ -1,36 +1,50 @@
-<h1 align="center">João Ricardo</h1>
-
 <p align="center">
-  <a href="https://github.com/Jmello01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0D7A6F&center=true&vCenter=true&width=620&lines=Software+Engineer+J%C3%BAnior;Backend+com+Python+e+Java;Concorr%C3%AAncia%2C+dados+e+NLP;Aprendo+construindo" alt="Software Engineer Júnior · Backend com Python e Java · Concorrência, dados e NLP · Aprendo construindo" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Jo%C3%A3o%20Ricardo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20J%C3%BAnior&descSize=20&descAlignY=60" alt="João Ricardo, Software Engineer Júnior" />
 </p>
 
 <p align="center">
-  Estudante de Ciência da Computação · Rio de Janeiro, Brasil
+  <img src="https://img.shields.io/badge/BACKEND-0D7A6F?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/PYTHON%20%2B%20JAVA-1E3A4A?style=for-the-badge" alt="Python e Java" />
+  <img src="https://img.shields.io/badge/CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O-C4A35A?style=for-the-badge" alt="Ciência da Computação" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jmello01">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0D7A6F&center=true&vCenter=true&width=640&lines=Backend+com+Python+e+Java;Concorr%C3%AAncia%2C+dados+e+NLP;Aprendo+construindo;Rio+de+Janeiro%2C+Brasil" alt="Backend com Python e Java · Concorrência, dados e NLP · Aprendo construindo" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,ts,spring,fastapi,postgres,redis,rabbitmq,docker&perline=9" alt="Python, Java, TypeScript, Spring Boot, FastAPI, PostgreSQL, Redis, RabbitMQ, Docker" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-mello-371a48204/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 ## 👋 Sobre mim
 
-Sou Software Engineer Júnior na DRAI Consultoria e estudante de Ciência da Computação. Trabalho com backend em **Python** e **Java** e aprendo construindo: quando quero entender alguma coisa, faço um projeto.
+Sou **Software Engineer Júnior** na DRAI Consultoria e estudante de **Ciência da Computação**. Trabalho com backend em **Python** e **Java** e aprendo construindo: quando quero entender alguma coisa, faço um projeto.
 
-Nos projetos abaixo estudo o que mantém um sistema correto sob carga, e agora também como avaliar um modelo de NLP além de uma métrica. Meu objetivo é chegar à **arquitetura de software**.
+Nos projetos abaixo estudo o que mantém um sistema **correto sob carga**, e agora também como avaliar um modelo de **NLP** além de uma métrica. Antes de programar, passei 5 anos cuidando da qualidade de dados de estoque, e levo essa atenção a consistência para o código.
+
+**Meu objetivo é chegar à arquitetura de software.**
 
 ---
 
-## 🧰 Stack
+## 🎯 Especialidades
+
+```text
+Backend em Python e Java            APIs REST e autenticação (JWT)
+Concorrência e consistência         Lock otimista, operações atômicas
+Mensageria e cache                  RabbitMQ, Redis
+Bancos relacionais                  PostgreSQL, SQLite, migrations
+Testes automatizados                JUnit 5, Mockito, Testcontainers, pytest
+Qualidade de dados                  Validação, conciliação, tratamento
+Fundamentos de ML e NLP             pandas, scikit-learn, PyTorch
+```
+
+---
+
+## 🧰 Tech stack
 
 **Linguagens**
 
@@ -78,7 +92,7 @@ Nos projetos abaixo estudo o que mantém um sistema correto sob carga, e agora t
 | 👥 **[Next Management](https://github.com/Jmello01/next-management)** | Sistema de gestão de membros, com backend e frontend separados | Java, Spring Boot, Angular, TypeScript |
 
 <details>
-<summary><b>🔍 Ver o que aprendi com o TicketFlow</b></summary>
+<summary><b>🔍 O que aprendi com o TicketFlow</b></summary>
 <br/>
 
 Bugs reais que encontrei e corrigi:
@@ -90,6 +104,18 @@ Bugs reais que encontrei e corrigi:
 Sem proteção, o cenário vendeu 1.000 ingressos e o estoque foi para -990. As outras duas abordagens vendem exatamente 10.
 
 </details>
+
+---
+
+## 🏛️ Princípios de engenharia
+
+| Antes de codar | Ao construir | Ao entregar |
+|---|---|---|
+| Desenho primeiro: regras de negócio, modelagem e endpoints | TDD: vejo o teste falhar antes de implementar | Testes e CI rodando antes de publicar |
+| Entender o problema antes de escolher a ferramenta | Testar o que pode quebrar, não só o caminho feliz | Documentar decisões e limitações |
+| Dado ruim primeiro, modelo depois | Medir contra um baseline antes de comemorar | Só publico o que consigo explicar |
+
+> Uso assistentes de IA como mentores e para ganhar velocidade, e valido o resultado com testes e revisão de código.
 
 ---
 
@@ -116,25 +142,10 @@ Locks otimistas, operações atômicas, mensageria e retry com backoff. Estudo c
 </details>
 
 <details>
-<summary><b>🏛️ Arquitetura de software</b></summary>
+<summary><b>🏗️ Arquitetura de software</b></summary>
 <br/>
 
 Meu objetivo de carreira. Estudo paradigmas de programação, SOLID, arquitetura em camadas, sistemas distribuídos e conceitos de cloud.
-
-</details>
-
----
-
-## 🛠️ Como eu trabalho
-
-<details>
-<summary><b>Ver</b></summary>
-<br/>
-
-- Começo pelo desenho (regras de negócio, modelagem e endpoints) antes de escrever código.
-- Uso TDD sempre que possível: vejo o teste falhar primeiro, porque é isso que prova que ele testa alguma coisa.
-- Testo o que pode quebrar de propósito, não só o caminho feliz.
-- Uso assistentes de IA como mentores e para ganhar velocidade, e valido o resultado com testes e revisão de código. Só publico o que consigo explicar.
 
 </details>
 
@@ -150,6 +161,11 @@ Meu objetivo de carreira. Estudo paradigmas de programação, SOLID, arquitetura
 ---
 
 <p align="center">
+  <i>Aprendo construindo.</i><br/>
   Se você trabalha com backend, concorrência ou NLP, vamos conversar.<br/>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-mello-371a48204/">Me chama no LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" alt="" />
 </p>
