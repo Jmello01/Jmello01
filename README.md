@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Jo%C3%A3o%20Ricardo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20J%C3%BAnior&descSize=20&descAlignY=60" alt="João Ricardo, Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Jo%C3%A3o%20Ricardo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer
+    &descSize=20&descAlignY=60" alt="João Ricardo, Software Engineer" />
 </p>
 
 <p align="center">
