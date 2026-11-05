@@ -1,128 +1,148 @@
-<div align="center">
+<h1 align="center">João Ricardo</h1>
 
-# João Mello
+<p align="center">
+  <a href="https://github.com/Jmello01">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0D7A6F&center=true&vCenter=true&width=620&lines=Software+Engineer+J%C3%BAnior;Backend+com+Python+e+Java;Concorr%C3%AAncia%2C+dados+e+NLP;Aprendo+construindo" alt="Software Engineer Júnior · Backend com Python e Java · Concorrência, dados e NLP · Aprendo construindo" />
+  </a>
+</p>
 
-### Software Developer · Full Stack
-
-Building practical software with a focus on **Java, Spring Boot, APIs and distributed systems**.
-
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-mello-371a48204/) · [GitHub](https://github.com/Jmello01)
-
-</div>
-
----
-
-## About me
-
-I'm a Computer Science student focused on software development and backend engineering.
-
-My public projects currently reflect my studies and practical work across **Java/Spring Boot, REST APIs, distributed systems, Angular/TypeScript and Python/FastAPI**.
-
-I enjoy understanding how systems work internally — from clean architecture and persistence to concurrency, messaging and performance.
-
-## Technologies & concepts
-
-### Backend
-
-- Java 21
-- Spring Boot
-- Spring Data JPA / Hibernate
-- FastAPI
-- REST APIs
-- Bean Validation
-- OpenAPI / Swagger
-- Maven
-
-### Data & infrastructure
-
-- H2
-- SQLite
-- Redis
-- RabbitMQ
-- Docker / Docker Compose
-
-### Frontend
-
-- Angular
-- TypeScript
-- SCSS
-
-### Engineering
-
-- Object-Oriented Programming
-- Layered Architecture
-- Concurrency & Race Conditions
-- Distributed Systems
-- Asynchronous Messaging
-- API design
-- TDD / automated testing
+<p align="center">
+  Estudante de Ciência da Computação · Rio de Janeiro, Brasil<br/>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-mello-371a48204/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## Featured projects
+## 👋 Sobre mim
 
-### 🎟️ TicketFlow
+Sou Software Engineer Júnior na DRAI Consultoria e estudante de Ciência da Computação. Trabalho com backend em **Python** e **Java** e aprendo construindo: quando quero entender alguma coisa, faço um projeto.
 
-A practical laboratory focused on **concurrency, race conditions and distributed systems** using Java 21 and Spring Boot.
-
-The architecture uses **Redis for atomic stock validation**, **RabbitMQ for asynchronous messaging** and a consumer responsible for persistence, with Docker Compose orchestrating the environment.
-
-→ [View repository](https://github.com/Jmello01/ticketflow)
-
-### 💰 Controle de Despesas API
-
-REST API for personal expense management built with **Java 21 and Spring Boot 3**.
-
-The project applies layered architecture, validation, exception handling, persistence with H2 and interactive API documentation with Swagger/OpenAPI.
-
-→ [View repository](https://github.com/Jmello01/controle-despesas-api)
-
-### 🧾 SACT — Sistema de Análise e Cálculo Tributário
-
-Backend application developed with **Python and FastAPI** for fiscal calculations and financial risk analysis.
-
-It includes company registration, automated ISS calculation and a credit-analysis decision engine using SQLite.
-
-→ [View repository](https://github.com/Jmello01/SACT---Sistema-de-Analise-e-Calculo-Tributario)
-
-### 👥 Next Management
-
-A full-stack member management system built with **Java/Spring Boot on the backend** and **Angular/TypeScript on the frontend**.
-
-The project explores REST APIs, persistence, CRUD operations, reactive search and frontend/backend integration.
-
-→ [View repository](https://github.com/Jmello01/next-management)
+Nos projetos abaixo estudo o que mantém um sistema correto sob carga, e agora também como avaliar um modelo de NLP além de uma métrica. Meu objetivo é chegar à **arquitetura de software**.
 
 ---
 
-## Currently learning
+## 🧰 Stack
 
-```text
-Java & Spring Boot
-        ↓
-REST APIs · JPA · Security
-        ↓
-Distributed Systems · Messaging
-        ↓
-Docker · Cloud · CI/CD
-```
+**Linguagens**
 
-My current direction is to deepen my knowledge of **backend engineering with Java and Spring Boot**, while continuing to build full-stack applications and understand scalable system design.
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,ts,js" alt="Python, Java, TypeScript, JavaScript" />
+</p>
+
+**Backend e dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,redis,rabbitmq" alt="Spring Boot, FastAPI, PostgreSQL, Redis, RabbitMQ" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" alt="React, Next.js, Angular" />
+</p>
+
+**Infra e ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode" alt="Docker, Git, GitHub, IntelliJ IDEA, VS Code" />
+</p>
+
+**Em estudo: machine learning**
+
+<p>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
 ---
 
-## Education
+## 🚀 Projetos em destaque
 
-🎓 **Computer Science** — Anhanguera, Rio de Janeiro, Brazil
+| Projeto | O que é | Stack |
+|---|---|---|
+| 🎟️ **[TicketFlow](https://github.com/Jmello01/ticketflow)** | Laboratório de concorrência: 1.000 threads disputam 10 ingressos. Compara sem proteção, lock otimista e Redis com decremento atômico | Java 21, Spring Boot, Redis, RabbitMQ, PostgreSQL, Docker |
+| 📚 **[StudyOS](https://github.com/Jmello01/studyos)** | PWA para planejar e analisar minhas sessões de estudo, desenvolvido com TDD. *Em desenvolvimento* | Java 21, Spring Boot, PostgreSQL, Flyway, Testcontainers |
+| 💸 **[Controle de Despesas API](https://github.com/Jmello01/controle-despesas-api)** | API REST com autenticação JWT, validação, tratamento de exceções e documentação Swagger, com deploy em produção | Spring Boot, JWT, PostgreSQL, Swagger, JUnit 5, Mockito |
+| 🧾 **[SACT](https://github.com/Jmello01/SACT---Sistema-de-Analise-e-Calculo-Tributario)** | API de análise tributária: compara ISS com CBS + IBS (reforma tributária) e tem um motor de decisão de crédito | Python, FastAPI, SQLite, Pydantic |
+| 👥 **[Next Management](https://github.com/Jmello01/next-management)** | Sistema de gestão de membros, com backend e frontend separados | Java, Spring Boot, Angular, TypeScript |
+
+<details>
+<summary><b>🔍 Ver o que aprendi com o TicketFlow</b></summary>
+<br/>
+
+Bugs reais que encontrei e corrigi:
+
+- O `@Retryable` envolvia uma chamada ao Redis que não é segura para repetir, e erros de banco apareciam como "estoque esgotado". Isolei a persistência em um serviço próprio.
+- O cache do `open-in-view` do Spring devolvia a entidade antiga dentro da requisição. Meu teste não pegou porque rodava fora de uma requisição, e hoje há um teste que chama o endpoint de verdade.
+- Publisher Confirms no RabbitMQ, para distinguir "meu código não lançou erro" de "a mensagem chegou ao broker".
+
+Sem proteção, o cenário vendeu 1.000 ingressos e o estoque foi para -990. As outras duas abordagens vendem exatamente 10.
+
+</details>
 
 ---
 
-## Let's connect
+## 🧠 Em estudo
 
-If you're interested in backend development, Java, distributed systems or software engineering, feel free to connect.
+<details>
+<summary><b>🤖 Machine learning e NLP</b></summary>
+<br/>
 
-<div align="center">
+Comecei pelos fundamentos (tratamento de dados, regressão linear e logística, uma primeira rede neural em PyTorch) e agora aplico em NLP.
 
-**Java · Spring Boot · APIs · Distributed Systems · Software Engineering**
+- **NERO** *(em breve neste perfil)*: estudo sobre como um modelo interpreta mensagens curtas em português ("Tá bom" pode ser concordância, indiferença ou irritação). Baseline contra TF-IDF + regressão logística, validação cruzada e análise de erros.
+- Aprendizado até agora: com 51 mensagens, diferenças de poucos pontos são ruído, e a minha regra de anotação fazia a classe "neutra" misturar mensagens neutras e ambíguas.
+- Próximos passos: mais mensagens escritas por mim e comparação com BERTimbau.
 
-</div>
+</details>
+
+<details>
+<summary><b>⚙️ Concorrência e sistemas distribuídos</b></summary>
+<br/>
+
+Locks otimistas, operações atômicas, mensageria e retry com backoff. Estudo cada conceito quebrando o sistema de propósito e escrevendo o teste que prova a correção.
+
+</details>
+
+<details>
+<summary><b>🏛️ Arquitetura de software</b></summary>
+<br/>
+
+Meu objetivo de carreira. Estudo paradigmas de programação, SOLID, arquitetura em camadas, sistemas distribuídos e conceitos de cloud.
+
+</details>
+
+---
+
+## 🛠️ Como eu trabalho
+
+<details>
+<summary><b>Ver</b></summary>
+<br/>
+
+- Começo pelo desenho (regras de negócio, modelagem e endpoints) antes de escrever código.
+- Uso TDD sempre que possível: vejo o teste falhar primeiro, porque é isso que prova que ele testa alguma coisa.
+- Testo o que pode quebrar de propósito, não só o caminho feliz.
+- Uso assistentes de IA como mentores e para ganhar velocidade, e valido o resultado com testes e revisão de código. Só publico o que consigo explicar.
+
+</details>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jmello01&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmello01&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+<p align="center">
+  Se você trabalha com backend, concorrência ou NLP, vamos conversar.<br/>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-mello-371a48204/">Me chama no LinkedIn</a>
+</p>
