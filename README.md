@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/BACKEND-0D7A6F?style=for-the-badge" alt="Backend" />
-  <img src="https://img.shields.io/badge/PYTHON%20%2B%20JAVA-1E3A4A?style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/PYTHON%20%2B%20JAVA-1E3A4A?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/PYTHON-1E3A4A?style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/JAVA-1E3A4A?style=for-the-badge" alt="Java" />
   <img src="https://img.shields.io/badge/CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O-C4A35A?style=for-the-badge" alt="Ciência da Computação" />
 </p>
 
