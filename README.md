@@ -7,7 +7,14 @@
 </p>
 
 <p align="center">
-  Estudante de Ciência da Computação · Rio de Janeiro, Brasil<br/>
+  Estudante de Ciência da Computação · Rio de Janeiro, Brasil
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,ts,spring,fastapi,postgres,redis,rabbitmq,docker&perline=9" alt="Python, Java, TypeScript, Spring Boot, FastAPI, PostgreSQL, Redis, RabbitMQ, Docker" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-mello-371a48204/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
